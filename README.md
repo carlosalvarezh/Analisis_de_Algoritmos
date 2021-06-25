@@ -1,5 +1,5 @@
 # Analisis de Algoritmos
-*Curso de Análisis de Algoritmos*
+*Curso de Análisis de Algoritmos a nivel de posgrado*
 
 # JUSTIFICACIÓN
 Saber programar un computador es hoy en día una necesidad más que puntual de solamente algunas profesiones que tienen que ver con el desarrollo de software a nivel empresarial (Ingeniería de Sistemas, en el caso colombiano o Ciencias de la Computación, en un caso más general). Cada vez más profesionales de distintas áreas del saber cómo las ingenierías, ciencias exactas, salud, sociales, entre otras, requieren adquirir habilidades en el desarrollo de programas eficientes que les permita generar soluciones y analizar grandes volúmenes de información en un lapso de tiempo adecuado.
